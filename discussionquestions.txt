@@ -1,8 +1,0 @@
-Based on the misclassification rate of your model, discuss your confidence in the ability to predict a bot.
-I am not very confident in the ability to predict a bot. Yes the bot was predicted accurately majority of the time however non bots were also commonly predicted as bots so if were just assuming that majority of people on the internet are bots obviously the bot prediction is getting high results but the false negative rate will also be high and normal users will be seen as bots.
-
-What are potential ramifications of false positives from the model?
-Potential ramifications of the false positives are that are ability to predict a bot is relatively good cause the false positive rate was low but it is still not perfect. So we can not predict a bot with exact certainty.
-
-What are potential ramifications of false negatives from the model?
-Potential ramifications of the false negatives are that normal people will be interpretted as bots because the false negative rate was so high which means majority people on the internet act like bots.
