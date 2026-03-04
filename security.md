@@ -1,0 +1,7 @@
+# Security
+## Intended Users:
+The main intened user of my repo is me (my local username is thube and my github username is tylerhubeny34)
+## Risk Assessment:
+If this data was to get into the wrong hands, there is nothing malicious the attacker could do with it. There is no sensitive data in this repo and all of the files within the repo are school assignments so I don't think any of the code would give the attacker any sort of leverage. Maybe if another student wanted to sabotage my grade they could mess with the files, but they would have to know exactly when I am submitting my assignment and mess with the files in the short time between me doing a final push and submitting the files to gradescope vis github. None of the assignments we've done so far though were large enough where it would take too long to redo the assignment.
+## Security Measures
+There is a CODEOWNERS file in this repo which came from when I forked the repo. However, my username is not in there because I did not update that file after I forked the repo. There are no security measures necessary for this repo because there is no sensitive or confidential data in the repo. It is assignments that all of the students in the class have access to. Nothing bad would happen if someone stole all the files in the repo and if someone were to change the repo I would just refork it from the original. I submit all the assignments right after I push them so if they change old files that wouldn't matter and the proper files should always be submitted.
